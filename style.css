@@ -16,5 +16,17 @@ body {
 }
 
 #pirate {
-    
+    font-size: 50px;
+    cursor: pointer;
+    position: absolute;
+    transition: transform 0.2s ease;
+}
+
+h1 {
+    font-size: 2em;
+}
+
+#score {
+    font-size: 1.5em;
+    margin-top: 20px;
 }
